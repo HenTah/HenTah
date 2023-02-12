@@ -2,10 +2,10 @@
 <a href="https://github.com/samuaaltonen/doom-nukem/">Doom_Nukem 2.5D Raycasted Engine C, CPU only</a> |  Map Editor for the engine 
 :-------------------------:|:-------------------------:
 <img width="860" alt="" src="https://user-images.githubusercontent.com/53992736/218329547-0c80e2ed-848f-4c4d-b91d-aa11c747438b.png"> | [![Watch the video](https://user-images.githubusercontent.com/53992736/218330811-675c125e-e92a-420d-ae1e-264fd7aca380.jpg)]([https://user-images.githubusercontent.com/4020810/218316566-2672e570-f932-4b9f-9a1b-d6b8710bce23.mp4])
-Simpler Raycasted Grid Based Engine | Fractals
-<img width="480" alt="Simpler Raycasted Engine" src="https://user-images.githubusercontent.com/53992736/218329552-59f39cbd-7647-4e9b-8118-7d2e51fbbec1.png"> | <img width="320" alt="Fractals" src="https://user-images.githubusercontent.com/53992736/218329643-324b8d83-5c71-47ff-ac34-03f5e5f9e1d3.jpg">
-<a href="https://github.com/HenTah/Gamejam_2023">Game Jam 2023</a> | 2D Platformer on Android Java
-[![Watch the video](https://user-images.githubusercontent.com/53992736/216842053-bd1732ca-cc64-4b98-9cbb-003a21f8ff3e.png)](https://puu.sh/Jz2hC/13e2887fd2.mp4) | <img width="240" alt="EZCLMR" src="https://user-images.githubusercontent.com/53992736/218330219-53071a32-89d9-4815-95b2-457df44ef227.jpg">
+Simpler Raycasted Grid Based Engine | <a href="https://github.com/HenTah/Gamejam_2023">Game Jam 2023</a>
+<img width="480" alt="Simpler Raycasted Engine" src="https://user-images.githubusercontent.com/53992736/218329552-59f39cbd-7647-4e9b-8118-7d2e51fbbec1.png"> | [![Watch the video](https://user-images.githubusercontent.com/53992736/216842053-bd1732ca-cc64-4b98-9cbb-003a21f8ff3e.png)](https://puu.sh/Jz2hC/13e2887fd2.mp4)
+Fractals | 2D Platformer on Android Java
+<img width="320" alt="Fractals" src="https://user-images.githubusercontent.com/53992736/218329643-324b8d83-5c71-47ff-ac34-03f5e5f9e1d3.jpg"> | <img width="240" alt="EZCLMR" src="https://user-images.githubusercontent.com/53992736/218330219-53071a32-89d9-4815-95b2-457df44ef227.jpg">
 
 
 <!--
