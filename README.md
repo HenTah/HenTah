@@ -1,5 +1,5 @@
 ### Graphical Projects
-<a href="https://github.com/samuaaltonen/doom-nukem/">Doom_Nukem 2.5D Raycasted Engine C, CPU only</a> |  Map Editor for the engine 
+<a href="https://github.com/samuaaltonen/doom-nukem/">Doom_Nukem 2.5D Raycasted Engine, C, CPU only</a> |  Map Editor for the engine 
 :-------------------------:|:-------------------------:
 <img width="860" alt="" src="https://user-images.githubusercontent.com/53992736/218329547-0c80e2ed-848f-4c4d-b91d-aa11c747438b.png"> | [![Watch the video](https://user-images.githubusercontent.com/53992736/218330811-675c125e-e92a-420d-ae1e-264fd7aca380.jpg)]([https://user-images.githubusercontent.com/4020810/218316566-2672e570-f932-4b9f-9a1b-d6b8710bce23.mp4])
 Simpler Raycasted Grid Based Engine | <a href="https://github.com/HenTah/Gamejam_2023">Game Jam 2023</a>, click image for video
